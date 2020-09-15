@@ -22,7 +22,7 @@ $ docker container exec --interactive --tty some-mysql bash
 ```
 
 
-### SGBD:
+:b: Manipuler la base de données `MySQL`
 
 . lancer le CLI (Command Level Interface) de MySQL
 
