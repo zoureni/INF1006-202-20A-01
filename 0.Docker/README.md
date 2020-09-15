@@ -22,24 +22,22 @@ $ docker container exec --interactive --tty some-mysql bash
 ```
 
 
-:b: Manipuler la base de données `MySQL`
+:b: Manipulation de la base de données `MySQL`
 
-. lancer le CLI (Command Level Interface) de MySQL
+- [ ] Lancer le CLI (Command Level Interface) de MySQL
 
 ```
 #  mysql --user root --password
 ```
 
 
-. Dans le CLI
-
-.. créer une base de données
+- [ ] Dans le CLI, créer une base de données
 
 ```
 mysql> CREATE DATABASE etudiants;
 ```
 
-.. créer les utilisateurs
+- [ ] Créer les utilisateurs
 
 - Version Longue
 
